@@ -4,4 +4,4 @@ Link to dataset - https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_50
 
 app.py - Converted Machine learning model into a product
 
-My Movie Recommender will give user 5 best recommendation upon selection of movies
+**My Movie Recommender will give user 5 best movie recommendation upon selection of movie**
